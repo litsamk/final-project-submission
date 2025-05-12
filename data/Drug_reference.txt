@@ -1,0 +1,56 @@
+Drug abbreviation	Drug name	Drug class	Is_cardiotoxic	Cardiotoxicity frequency	References for cardiotoxicity
+AFA	afatinib	Kinase_inhibitor	No	0	FAERS
+AMI	amiodarone	Cardiovascular_drug	ND	-1	
+AXI	axitinib	Kinase_inhibitor	No	1	PMID:�32231332
+AZA	azacitidine	Non_cardiovascular_drug	ND	-1	
+BEV	bevacizumab	Monoclonal_antibody	Yes	2	PMID:�32231332
+BOR	bortezomib	Non_cardiovascular_drug	Yes	2	PMID:�32231332
+BOS	bosutinib	Kinase_inhibitor	No	0	PMID:�32231332
+CAB	cabozantinib	Kinase_inhibitor	No	0	PMID:�32231332
+CAR	carfilzomib	Non_cardiovascular_drug	Yes	2	PMID:�32231332
+CER	ceritinib	Kinase_inhibitor	No	0	PMID:�32231332
+CRI	crizotinib	Kinase_inhibitor	No	0	PMID:�32231332
+CTX	cetuximab	Monoclonal_antibody	No	0	PMID:�32231332
+CYC	cyclosporine	Non_cardiovascular_drug	ND	-1	
+DAB	dabrafenib	Kinase_inhibitor	Yes	2	PMID:�32231332
+DAS	dasatinib	Kinase_inhibitor	No	0	PMID:�32231332
+DAU	daunorubicin	Anthracycline	Yes	2	FAERS
+DEC	decitabine	Non_cardiovascular_drug	ND	-1	
+DEL	delavirdine	Non_cardiovascular_drug	ND	-1	
+DIC	diclofenac	Non_cardiovascular_drug	ND	-1	
+DOB	dobutamine	Cardiovascular_drug	ND	-1	
+DOX	doxorubicin	Anthracycline	Yes	3	PMID:�32231332
+EDN	endothelin-1	Cardiovascular_drug	ND	-1	
+EPI	epirubicin	Anthracycline	Yes	3	PMID:�32231332
+ERL	erlotinib	Kinase_inhibitor	No	0	PMID:�32231332
+EST	estradiol	Non_cardiovascular_drug	ND	-1	
+FLE	flecainide	Cardiovascular_drug	ND	-1	
+GEF	gefitinib	Kinase_inhibitor	No	0	FAERS
+IDA	idarubicin	Anthracycline	Yes	3	PMID:�32231332
+IGF	insulin-like growth factor 1	Non_cardiovascular_drug	ND	-1	
+IMA	imatinib	Kinase_inhibitor	No	1	PMID:�32231332
+ISO	isoprenaline	Cardiovascular_drug	ND	-1	
+LAP	lapatinib	Kinase_inhibitor	Yes	2	PMID:�32231332
+MIL	milrinone	Cardiovascular_drug	ND	-1	
+NIL	nilotinib	Kinase_inhibitor	No	0	PMID:�32231332
+OLM	olmesartan	Cardiovascular_drug	ND	-1	
+PAZ	pazopanib	Kinase_inhibitor	Yes	3	PMID:�32231332
+PHP	phenylephrine	Cardiovascular_drug	ND	-1	
+PIO	pioglitazone	Non_cardiovascular_drug	ND	-1	
+PON	ponatinib	Kinase_inhibitor	Yes	2	PMID:�32231332
+PRE	prednisolone	Non_cardiovascular_drug	ND	-1	
+REG	regorafenib	Kinase_inhibitor	No	0	PMID:�32231332
+ROS	rosiglitazone	Non_cardiovascular_drug	ND	-1	
+RTX	rituximab	Monoclonal_antibody	No	1	PMID:�32231332
+RUX	ruxolitinib	Kinase_inhibitor	No	0	PMID:�32231332
+SAX	saxagliptin	Non_cardiovascular_drug	ND	-1	
+SOR	sorafenib	Kinase_inhibitor	Yes	2	PMID:�32231332
+SUN	sunitinib	Kinase_inhibitor	Yes	3	PMID:�32231332
+TNF	tnf-alpha	Non_cardiovascular_drug	ND	-1	
+TOF	tofacitinib	Kinase_inhibitor	No	0	undetermined
+TRA	trametinib	Kinase_inhibitor	Yes	3	PMID:�32231332
+TRS	trastuzumab	Monoclonal_antibody	Yes	3	PMID:�32231332
+VAN	vandetanib	Kinase_inhibitor	Yes	2	PMID:�32231332
+VEM	vemurafenib	Kinase_inhibitor	No	0	PMID:�32231332
+VRP	verapamil	Cardiovascular_drug	ND	-1	
+CTR	Control	Control	No	0	
